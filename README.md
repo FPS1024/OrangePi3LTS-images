@@ -12,8 +12,8 @@
 
 ## 发布版本
 ### 最新版本
-- **vx.1**: 提供 Kali Linux 镜像，适用于安全测试和开发。
-- **vx.2**: 提供 Raspberry Pi OS 镜像，适用于通用开发和学习。
+- **vx.1**: 更新 Kali Linux 镜像，适用于安全测试和开发。
+- **vx.2**: 更新 Raspberry Pi OS 镜像，适用于通用开发和学习。
 
 ### 其他版本
 - 更多版本信息请访问 [Releases 页面](https://github.com/FPS1024/OrangePi3LTS-images/releases)。
