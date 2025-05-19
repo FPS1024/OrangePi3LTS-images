@@ -1,4 +1,4 @@
-[English Version](./README_EN.md)
+[English](./README_EN.md)| [中文](./README.md) 
 
 # OrangePi 3 LTS 镜像
 
