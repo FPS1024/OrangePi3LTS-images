@@ -10,8 +10,8 @@ This project aims to share some unofficial available images for the OrangePi 3 L
 
 ## Releases
 ### Latest Versions
-- **vx.1**:will update the Kali Linux image, suitable for security testing and development.
-- **vx.2**:will update the Raspberry Pi OS image, suitable for general development and learning.
+- **vx.1**:Will update the Kali Linux image, suitable for security testing and development.
+- **vx.2**:Will update the Raspberry Pi OS image, suitable for general development and learning.
 
 ### Other Versions
 - For more release information, please visit the [Releases Page](https://github.com/FPS1024/OrangePi3LTS-images/releases).
