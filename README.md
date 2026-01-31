@@ -44,4 +44,4 @@ u-boot/
 欢迎提交 Issue 或 Pull Request 来改进本项目。
 
 ## 联系方式
-如有任何问题，请通过 GitHub Issues 联系我们。
+如有任何问题，请通过 GitHub Issues 联系我们。QQ群：1079884058
