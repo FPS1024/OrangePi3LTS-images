@@ -15,6 +15,8 @@
 - **vx.1**: 更新 Kali Linux 镜像，适用于安全测试和开发。
 - **vx.2**: 更新 Raspberry Pi OS 镜像，适用于通用开发和学习。
 - **vx.3**：更新FnNAS的 镜像，适用于NAS设备
+- OpenWRT 前往[OpenWRT仓库](https://github.com/FPS1024/OpenWRT/releases)。
+
 
 ### 其他版本
 - 更多版本信息请访问 [Releases 页面](https://github.com/FPS1024/OrangePi3LTS-images/releases)。
